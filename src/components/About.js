@@ -10,10 +10,27 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          <p className="mb-8 leading-relaxed text-justify">
+            I started off my career as a Developer fifteen years ago but started
+            studying and working with Laravel 5 years ago in the Company
+            Trafilea. In this company, I learn Laravel and create several
+            projects in this framework. For the last 3 years I have been working
+            at Smart145 in Laravel, first as a developer and after as a Team
+            Lead. In this company, the main technologies in the frontend were
+            VueJs and Bootstrap, in the backend we worked with, Laravel, Nova,
+            Mysql, and Redis. We used Unit Test and Cypress for testing the
+            application. We used Jira, Slack, Phpstorm, Wakatime, and Hubstaff.
+          </p>
+          <p className="mb-8 leading-relaxed text-justify">
+            I have a lot of experience working with Javascript, CSS, and html
+            because in my career I develop a lot of projects using these
+            technologies for it was very easy for me working with JSX and React.
+          </p>
+          <p className="mb-8 leading-relaxed text-justify">
+            I have experience working in the team, sharing knowledge, helping
+            others and asking when I have a doubt, working under pressure, to
+            finish the tasks in the planning time and sometimes it is necessary
+            to work extra hours.
           </p>
           <div className="flex justify-center">
             <a
