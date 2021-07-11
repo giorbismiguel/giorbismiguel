@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Vue, Laravel and Mysql",
+    subtitle: "LAMP Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developments of software to control the entire process of aircraft repair parts, whose performance can handle the increasing amount of daily work.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://smart145.com/",
   },
   {
     title: "React Tracks",
