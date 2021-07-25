@@ -22,7 +22,7 @@ Even when I leave the office, I usually continue to write code at home. Most rec
 
 Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, Jest, Storybook, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Django, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
 
-- 🔭 I’m currently working on my project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
+- 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
 - 🌱 I’m currently learning React Native, Flutter, Django and NestJs
 - 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
 
