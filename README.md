@@ -16,11 +16,11 @@
 
 First of all, I love writing code. Ever since I wrote my first C ++ program and manipulated it to produce the desired result, I have been obsessed with the idea of ​​using software to solve practical problems. Software engineering is an endless puzzle that I am passionately committed to solving. I believe in the power of programming to transform and improve the lives of people around the world.
 
-For my first professional contract, I had the opportunity to implement a CRM . My second contract consisted of architecture an existing business model using the best tools and the best performance at that time. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. Today, I am a senior engineer at Dofleine and I work on the frontend and backend.
+For my first professional contract, I had the opportunity to implement a CRM . My second contract consisted of architecture an existing business model using the best tools and the best performance at that time. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. Today, I am a senior engineer at [Dofleine](https://www.linkedin.com/company/dofleini/mycompany/) and I work on the frontend and backend.
 
 Even when I leave the office, I usually continue to write code at home. Most recently.
 
-Skills/Interests: JavaScript, Typescript, Laravel, NodeJS, Vue, VueX, NuxtJS, StencilJS, Webpack/Babel, StyledComponents, WebNativeComponents, CSS, HTML, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker 
+Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Django, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
 
 - 🔭 I’m currently working on my project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
 - 🌱 I’m currently learning React Native, Flutter, Django and NestJs
