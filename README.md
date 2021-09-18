@@ -1,7 +1,6 @@
 ### Hi there, I'm [Giorbis!](https://clever-saha-b473a2.netlify.app/) 👋
 
 <a href="https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853">
-  
   <img align="left" alt="Giorbis Miguel | LinkedIn" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://twitter.com/giorbismiguel">
