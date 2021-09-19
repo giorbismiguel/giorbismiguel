@@ -1,6 +1,6 @@
 ### Hi there, I'm [Giorbis!] 👋
 
-[<img align="left" alt="Giorbis Miguel | Website" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][website]
+[<img align="left" alt="Giorbis Miguel | Website" width="20px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
 [<img align="left" alt="Giorbis Miguel | LinkedIn" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Giorbis Miguel | Twitter" width="21px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
 [<img align="left" alt="Giorbis Miguel's Discord" width="21px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
