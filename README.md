@@ -1,14 +1,9 @@
-### Hi there, I'm [Giorbis!](https://clever-saha-b473a2.netlify.app/) 👋
+### Hi there, I'm [Giorbis!] 👋
 
-<a href="https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853">
-  <img align="left" alt="Giorbis Miguel | LinkedIn" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />
-</a>
-<a href="https://twitter.com/giorbismiguel">
-  <img align="left" alt="Giorbis Miguel | Twitter" width="21px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />
-</a>
-<a href="https://www.facebook.com/giorbis">
-  <img align="left" alt="Giorbis Miguel's Discord" width="21px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />
-</a>
+[<img align="left" alt="Giorbis Miguel | Website" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][website]
+[<img align="left" alt="Giorbis Miguel | LinkedIn" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Giorbis Miguel | Twitter" width="21px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
+[<img align="left" alt="Giorbis Miguel's Discord" width="21px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
 
 <br />
 <br />
@@ -67,3 +62,8 @@ Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cy
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorbismiguel&layout=compact" />
 </a>
+
+[website]: https://clever-saha-b473a2.netlify.app
+[linkeding]: https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853
+[twitter]: https://twitter.com/giorbismiguel"
+[facebook]: https://www.facebook.com/giorbis
