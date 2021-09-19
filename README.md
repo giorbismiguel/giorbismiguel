@@ -15,18 +15,8 @@
 <br />
 <br />
 
-First of all, I love writing code. Ever since I wrote my first C ++ program and manipulated it to produce the desired result, I have been obsessed with the idea of ​​using software to solve practical problems. Software engineering is an endless puzzle that I am passionately committed to solving. I believe in the power of programming to transform and improve the lives of people around the world.
-
-For my first professional contract, I had the opportunity to implement a CRM . My second contract consisted of architecture an existing business model using the best tools and the best performance at that time. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. Today, I am a senior engineer at [Dofleini](https://www.linkedin.com/company/dofleini/mycompany/) and I work on the frontend and backend.
-
-Even when I leave the office, I usually continue to write code at home. Most recently.
-
-Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, Jest, Storybook, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Django, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
-
-<br />
-<br />
-
 **Languages and Tools:**
+
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </code>
@@ -58,7 +48,23 @@ Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cy
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 </code>
 
-\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+<br />
+<br />
+
+**About me:**
+
+First of all, I love writing code. Ever since I wrote my first C ++ program and manipulated it to produce the desired result, I have been obsessed with the idea of ​​using software to solve practical problems. Software engineering is an endless puzzle that I am passionately committed to solving. I believe in the power of programming to transform and improve the lives of people around the world.
+
+For my first professional contract, I had the opportunity to implement a CRM . My second contract consisted of architecture an existing business model using the best tools and the best performance at that time. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. Today, I am a senior engineer at [Dofleini](https://www.linkedin.com/company/dofleini/mycompany/) and I work on the frontend and backend.
+
+Even when I leave the office, I usually continue to write code at home. Most recently.
+
+Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, Jest, Storybook, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Django, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
+
+<br />
+<br />
+
+**NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github**
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorbismiguel&show_icons=true&include_all_commits=true" alt="Kronhyx's github stats" />
