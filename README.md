@@ -1,9 +1,16 @@
 ### Hi there, I'm [Giorbis!] 👋
 
+- 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
+- 🌱 I’m currently learning advanced concepts of Flutter & React Native
+- 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
+- ⚡ Fun fact: I love to listen songs. to fish and play dress
+
+**Connect with me:**
+
 [<img align="left" alt="Giorbis Miguel | Website" width="20px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
 [<img align="left" alt="Giorbis Miguel | LinkedIn" width="20px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Giorbis Miguel | Twitter" width="21px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
-[<img align="left" alt="Giorbis Miguel's Discord" width="21px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Giorbis Miguel | Facebook" width="21px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
 
 <br />
 <br />
@@ -16,12 +23,10 @@ Even when I leave the office, I usually continue to write code at home. Most rec
 
 Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, Jest, Storybook, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Django, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
 
-- 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
-- 🌱 I’m currently learning React Native, Flutter, Django and NestJs
-- 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
+<br />
+<br />
 
 **Languages and Tools:**
-
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </code>
@@ -63,7 +68,7 @@ Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cy
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorbismiguel&layout=compact" />
 </a>
 
-[website]: https://clever-saha-b473a2.netlify.app
-[linkeding]: https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853
-[twitter]: https://twitter.com/giorbismiguel"
-[facebook]: https://www.facebook.com/giorbis
+[website]:https://clever-saha-b473a2.netlify.app
+[linkedin]:https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853
+[twitter]:https://twitter.com/giorbismiguel
+[facebook]:https://www.facebook.com/giorbis
