@@ -1,4 +1,4 @@
-### Hi there, I'm [Giorbis!] 👋
+### Hi there, I'm Giorbis! 👋
 
 - 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
 - 🌱 I’m currently learning advanced concepts of Flutter & React Native
