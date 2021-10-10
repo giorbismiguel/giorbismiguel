@@ -1,5 +1,8 @@
 ### Hi there, I'm Giorbis! 👋
 
+<a href="https://app.daily.dev/giorbismiguel"><img src="https://api.daily.dev/devcards/09714fafafde4d9b9e7a30a508796f02.png?r=kun" width="400" alt="Giorbis Miguel Lorié Montalvo's Dev Card"/></a>
+
+
 - 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
 - 🌱 I’m currently learning advanced concepts of Flutter & React Native
 - 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
