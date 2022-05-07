@@ -8,8 +8,8 @@ export const projects = [
     link: "https://smart145.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Sandoz - Ponentes",
+    subtitle: "Jquery and Symfony",
     description: "",
     image: "./project-2.gif",
   },
