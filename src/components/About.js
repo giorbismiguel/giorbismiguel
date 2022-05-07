@@ -17,14 +17,16 @@ export default function About() {
             projects in this framework. For the last 3 years I have been working
             at Smart145 in Laravel, first as a developer and after as a Team
             Lead. In this company, the main technologies in the frontend were
-            VueJs and Bootstrap, in the backend we worked with, Laravel, Nova,
+            VueJs and Bootstrap, in the backend we worked with Laravel, Nova,
             Mysql, and Redis. We used Unit Test and Cypress for testing the
             application. We used Jira, Slack, Phpstorm, Wakatime, and Hubstaff.
           </p>
           <p className="mb-8 leading-relaxed text-justify">
-            I have a lot of experience working with Javascript, CSS, and html
+            I have a lot of experience working with Html, Css and Javascript  
             because in my career I develop a lot of projects using these
-            technologies for it was very easy for me working with JSX and React.
+            technologies for it was very easy for me working with React, Typescript 
+            and NextJs, I have 4 year working with this tecnologies. I also have experience
+            working with Storybook, Jest, Material UI and Styled Components.
           </p>
           <p className="mb-8 leading-relaxed text-justify">
             I have experience working in the team, sharing knowledge, helping
