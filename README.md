@@ -5,6 +5,9 @@
 - 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
 - ⚡ Fun fact: I love to listen to songs, fish and play chess
 
+<a href="https://www.twitter.com/giorbismiguel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/giorbismiguel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/giorbismiguel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/giorbismiguel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 **Connect with me:**
 
 [<img align="left" alt="Giorbis Miguel | Website" width="20px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
