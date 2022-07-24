@@ -64,15 +64,10 @@ Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cy
 <br />
 <br />
 
-**NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github**
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorbismiguel&show_icons=true&include_all_commits=true" alt="Kronhyx's github stats" />
-</a>
-<a href="#">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorbismiguel&layout=compact" />
-</a>
+username=giorbismiguel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="giorbismiguel's GitHub stats" /></a>
+<a href="http://www.github.com/giorbismiguel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giorbismiguel&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/giorbismiguel"><img src="https://activity-graph.herokuapp.com/graph?username=giorbismiguel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/giorbismiguel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorbismiguel&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [website]:https://clever-saha-b473a2.netlify.app
 [linkedin]:https://www.linkedin.com/in/giorbis-miguel-lori%C3%A9-montalvo-82446853
