@@ -1,7 +1,7 @@
 ### Hi there, I'm Giorbis! 👋
 
 - 🔭 I’m currently working on the project [Frontend](https://github.com/RoqLogic/mc-ui) and [Backend](https://github.com/RoqLogic/mc-core)
-- 🌱 I’m currently learning advanced concepts of Flutter & React Native
+- 🌱 I’m currently learning advanced concepts of Flutter
 - 💬 Ask me about anything [here](https://github.com/giorbismiguel/giorbismiguel/issues)
 - ⚡ Fun fact: I love to listen to songs, fish and play chess
 
