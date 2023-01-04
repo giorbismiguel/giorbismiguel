@@ -15,7 +15,7 @@ For my first professional contract, I had the opportunity to implement a CRM . M
 
 Even when I leave the office, I usually continue to write code at home. Most recently.
 
-Skills/Interests: HTML, CSS, Booostrap, Tailwindcss, Ant Design, Material UI, Cypress, Jest, Storybook, TDD, React, NextJs, Vue, NuxtJs, Typescript, Laravel, Symfony, React Native, Flutter, Git, GitLab, GitHub, SQL, DevOps, TDD, Firebase, CI/CD, Docker
+Skills/Interests: HTML, CSS, MUI, Cypress, Jest, Storybook, TDD, React, NextJs, Typescript, NestJs, Laravel, Flutter, Git, GitLab, GitHub, SQL, TDD, CI/CD, Docker
 
 <br />
 
