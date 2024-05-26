@@ -9,13 +9,15 @@
 
 ### About me
 
-First of all, I love writing code. Ever since I wrote my first C ++ program and manipulated it to produce the desired result, I have been obsessed with the idea of ​​using software to solve practical problems. Software engineering is an endless puzzle that I am passionately committed to solving. I believe in the power of programming to transform and improve the lives of people around the world.
+First of all, I love writing code. I wrote my first C ++ program and manipulated it to produce the desired result, I have been obsessed with using software to solve practical problems. Software engineering is an endless puzzle that I am passionately committed to solving. I believe in the power of programming to transform and improve the lives of people around the world.
 
-For my first professional contract, I had the opportunity to implement a CRM . My second contract consisted of architecture an existing business model using the best tools and the best performance at that time. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. Today, I am a senior engineer at [Agile Dream Teams](https://www.linkedin.com/company/agiledreamteam/mycompany/verification/).
+For my first professional contract, I had the opportunity to implement a CRM. My second contract consisted of the architecture of an existing business model using the best tools and performance. This contract quickly turned into a full-time offer and since then I have been expanding my role as a software engineer. 
 
-Even when I leave the office, I usually continue to write code at home. Most recently.
+Today, I am a mobile developer as a senior engineer at [Agile Dream Teams](https://www.linkedin.com/company/agiledreamteam/mycompany/verification/).
 
-Skills/Interests: HTML, CSS, MUI, Cypress, Jest, Storybook, TDD, React, NextJs, Typescript, NestJs, Laravel, Flutter, Git, GitLab, GitHub, SQL, TDD, CI/CD, Docker
+Even when I finish my job, I usually write code, read, learn, and practice.
+
+Skills/Interests: HTML, CSS, Javascript, Typescript, React, NextJs, React Native, Flutter, IOS, Kotlin, Cypress, Playwright, Jest, Maestro, Storybook, TDD, NestJs, Laravel, AWS, Git, Github, CI/CD, Docker.
 
 <br />
 
