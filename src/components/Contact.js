@@ -46,7 +46,6 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                 Via Blanca #176 apto 5. <br />
-                Flores y San Benigno, Cerro, La Habana, Cuba
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -59,7 +58,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">+5358356775</p>
+              <p className="leading-relaxed">+18633478761</p>
             </div>
           </div>
         </div>
